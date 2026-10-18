@@ -19,6 +19,7 @@ I love experimenting with technology, building software, and creating things jus
 ## 🚀 Things I'm Building
 
 - 🦈 **Mooshark** — A music platform built around sharing and discovering music. [nodeJS]
+  🤖 **Smoo** — A Mini-Game Discord Bot with moderation commands. [nodeJS]
 - 🤖 **Kitkat** — A feature-rich Discord bot with custom commands and game activity alerts. [Python]
 - 🎬 **YTSmooLoader** — A standalone video downloader for macOS and Windows. [Swift/MacOS] [C/Windows]
 - 🎨 **PixelSmoo** — A color-picking tool with an eyedropper that captures screen colors and displays HEX and RGB values. [Python/Linux/Windows] [Swift/MacOS]
