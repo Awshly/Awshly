@@ -18,11 +18,12 @@ I love experimenting with technology, building software, and creating things jus
 
 ## 🚀 Things I'm Building
 
-- 🦈 **Mooshark** — A music platform built around sharing and discovering music. *(Node.js)*
-- 🤖 **Smoo** — A Discord bot featuring mini-games, moderation commands, and automatic server-boost celebration embeds to congratulate community members. *(Node.js)*
-- 🤖 **Kitkat** — A feature-rich Discord bot with custom commands and game activity alerts. *(Python)*
-- 🎬 **YTSmooLoader** — A standalone video downloader for macOS and Windows. *(Swift/macOS · C/Windows)*
-- 🎨 **PixelSmoo** — A color-picking tool with an eyedropper that captures screen colors and displays HEX and RGB values. *(Python/Linux/Windows · Swift/macOS)*
+- 🦈 **Mooshark** — A music platform built around sharing and discovering music. [NodeJS]
+- 🤖 **Smoo** — A Discord bot featuring mini-games, moderation commands, and automatic server-boost celebration embeds to congratulate community members. [NodeJS]
+- 🎬 **MooVid** — A music video directory where users can browse videos and click to play their favorites. Built to bring music videos into the Mooshark ecosystem. [HTML/CSS/JS/PHP]
+- 🤖 **Kitkat** — A feature-rich Discord bot with custom commands and game activity alerts. [Python]
+- 🎬 **YTSmooLoader** — A standalone video downloader for macOS and Windows. [Swift/macOS] · [C/Windows]
+- 🎨 **PixelSmoo** — A color-picking tool with an eyedropper that captures screen colors and displays HEX and RGB values. [Python/Linux/Windows] · [Swift/macOS]
 - **Web projects** — Personal websites, APIs, reusable templates, and other experiments.
 
 ## My Philosophy
