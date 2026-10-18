@@ -16,7 +16,7 @@ I love experimenting with technology, building software, and creating things jus
 
 `Python` `PHP` `JavaScript` `TypeScript` `Swift` `C` `HTML` `CSS` `Linux`
 
-## 🚀 Things I'm Building
+## Things I'm Building
 
 - 🦈 **Mooshark** — A music platform built around sharing and discovering music. [NodeJS]
 - 🤖 **Smoo** — A Discord bot featuring mini-games, moderation commands, and automatic server-boost celebration embeds to congratulate community members. [NodeJS]
