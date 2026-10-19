@@ -19,6 +19,7 @@ I love experimenting with technology, building software, and creating things jus
 ## Things I'm Building
 
 - 🦈 **Mooshark** — A music platform built around sharing and discovering music. [NodeJS]
+- 🍿 **Katflix** — A self-hosted movie streaming platform with a web-based library for browsing and watching movies. [HTML/CSS/JS/PHP]
 - 🤖 **Smoo** — A Discord bot featuring mini-games, moderation commands, and automatic server-boost celebration embeds to congratulate community members. [NodeJS]
 - 🎧 **SmooSUS** — A Python headset battery and charging indicator for Fedora KDE, featuring USB HID battery detection, a system tray menu, automatic refresh, login autostart, and custom purple-themed artwork.  [Python]
 - 🎬 **MooVid** — A music video directory where users can browse videos and click to play their favorites. Built to bring music videos into the Mooshark ecosystem. [HTML/CSS/JS/PHP]
